@@ -2,8 +2,6 @@ package guru.qa;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.xlstest.XLS;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.google.gson.Gson;
 import com.opencsv.CSVReader;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
